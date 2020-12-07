@@ -1,2 +1,6 @@
-# choihyunjoon
-git test
+# Read me
+'''
+프로젝트 저자 : 최현준
+2020.12.07
+프로젝트 구성원 : solo
+'''
